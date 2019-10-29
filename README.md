@@ -1,8 +1,8 @@
 # docsStarter
 
-这是一个快速的文档生成器
+这是一个快速的文档生成器模版
 
-This is a quick document generator.
+This is a quick document generator template.
 
 
 # 快速开始
