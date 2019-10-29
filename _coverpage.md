@@ -6,7 +6,7 @@
         color: white !important;
     }
     .background {
-        background: #09090A url(_media/background.png) no-repeat center;
+        background: #09090A url(_media/bg.jpg) no-repeat center;
         background-size: cover;
         position: fixed;
         top: 0;
@@ -19,15 +19,15 @@
 
 <div class="background"></div>
 
-![logo](_media/logo.png)
+![logo](_media/logo-home.jpg)
 
-# NestCenter <small>0.0.1</small>
+# DocsStarter <small>0.0.1</small>
 
-> A MicroService Solution.
+> This is a description.
 
-- Using TypeScript and Nest.js
-- Writing Node MicroService Easily
-- Based On Consul
+- description1
+- description2 description
+- description3
 
-[GitHub](https://github.com/nest-center)
+[GitHub](https://github.com)
 [Get Started](zh-cn/README.md)
