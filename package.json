@@ -1,0 +1,19 @@
+{
+	"name": "docs-starter",
+	"version": "1.0.0",
+	"description": "This is a document builder",
+	"scripts": {
+		"start": "docsify serve"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/nest-center/docs-starter.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/nest-center/docs-starter/issues"
+	},
+	"homepage": "https://github.com/nest-center/docs-starter#readme"
+}
