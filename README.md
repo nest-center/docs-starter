@@ -12,3 +12,8 @@ git clone https://github.com/nest-center/docs-starter.git your-project-name
 npm run start
 ```
 
+## 打开浏览器并访问
+
+```bash
+http://localhost:3000
+```
