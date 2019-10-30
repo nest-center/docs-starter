@@ -24,3 +24,8 @@ npm run start
 ```bash
 http://localhost:3000
 ```
+
+
+## Docsify 更多用法请戳下面
+
+[docsify详细用法](https://docsify.js.org/#/zh-cn/quickstart)
